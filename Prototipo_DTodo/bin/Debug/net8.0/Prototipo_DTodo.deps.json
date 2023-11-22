@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prototipo_DTodo/1.0.0": {
+        "runtime": {
+          "Prototipo_DTodo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prototipo_DTodo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

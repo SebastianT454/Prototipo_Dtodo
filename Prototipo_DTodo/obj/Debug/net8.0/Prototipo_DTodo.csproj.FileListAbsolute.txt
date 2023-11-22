@@ -1,0 +1,14 @@
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\bin\Debug\net8.0\Prototipo_DTodo.exe
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\bin\Debug\net8.0\Prototipo_DTodo.deps.json
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\bin\Debug\net8.0\Prototipo_DTodo.runtimeconfig.json
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\bin\Debug\net8.0\Prototipo_DTodo.dll
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\bin\Debug\net8.0\Prototipo_DTodo.pdb
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\obj\Debug\net8.0\Prototipo_DTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\obj\Debug\net8.0\Prototipo_DTodo.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\obj\Debug\net8.0\Prototipo_DTodo.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\obj\Debug\net8.0\Prototipo_DTodo.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\obj\Debug\net8.0\Prototipo_DTodo.dll
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\obj\Debug\net8.0\refint\Prototipo_DTodo.dll
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\obj\Debug\net8.0\Prototipo_DTodo.pdb
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\obj\Debug\net8.0\Prototipo_DTodo.genruntimeconfig.cache
+C:\Users\Sebastian\source\repos\Prototipo_DTodo\Prototipo_DTodo\obj\Debug\net8.0\ref\Prototipo_DTodo.dll
